@@ -1,0 +1,15 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environnement virtuel
+env/
+venv/
+
+# Configurations locales
+config.py
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Systèmes d'exploitation
